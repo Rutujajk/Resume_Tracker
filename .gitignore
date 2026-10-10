@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# SQLite
+*.db
+
+# Streamlit
+.streamlit/
+
+# Environment
+.env
+
+# Backup Files
+*.backup
+
+# Generated PDF report
+Resume_Report.pdf
+
+# Sample resumes
+resumes/
+
+# Backup code files
+*_backup.py
+
+# OS Files
+.DS_Store
+Thumbs.db
