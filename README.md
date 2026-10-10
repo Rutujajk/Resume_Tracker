@@ -229,9 +229,8 @@ Save analysis history using SQLite.
 
 # 👩‍💻 Author
 
-**Snehal Nakadi**
-
-GitHub: https://github.com/Snehal-126
+Rutuja Karate
+Aspiring Data Analyst
 
 ---
 
